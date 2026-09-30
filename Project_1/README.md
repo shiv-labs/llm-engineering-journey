@@ -54,5 +54,4 @@ I'm planning a second project: training a ~40M parameter model from scratch on a
 ## Credits
 
 - Andrej Karpathy's "Let's build GPT" video
-- Tiny Shakespeare dataset from Karpathy's [char-rnn](https://github.com/karpathy/char-rnn) repo
 - GPT-2 tokenizer via Hugging Face `transformers`
